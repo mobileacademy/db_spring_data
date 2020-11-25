@@ -1,7 +1,7 @@
 package com.example.databaseApp.demo.models;
 
 
-
+//test VCS
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
